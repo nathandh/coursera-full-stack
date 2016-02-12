@@ -1,0 +1,3 @@
+[submodule "course2-RistoranteConFusion"]
+	path = course2-RistoranteConFusion
+	url = https://github.com/nathandh/coursera-fullstack-conFusion.git
